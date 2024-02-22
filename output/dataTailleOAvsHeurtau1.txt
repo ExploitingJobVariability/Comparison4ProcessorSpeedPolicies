@@ -1,0 +1,4 @@
+MoyenneTaille<-c(2.5)
+LorchvsMDP<-c(46.7192)
+OAvsMDP<-c(6.02157)
+HEURvsMDP<-c(0)
